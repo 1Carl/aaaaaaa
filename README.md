@@ -23,13 +23,17 @@
 		"keyword": "",
 		"description": ""
 	}, 
-	"category": "enum", //enumeration type
+	"category": "enum", 
 	"year": 2010,
-	"season": 1, //spring 0 autumn 1
+	"season": 1, 
 	"no": 1,
 	"description": "",
 	"hint": "",
-	"keywords": [ //can be many or empty
+	"keywords": [ 
 		{"keyword": "", "description": ""}
 	]
 }
+
+enum -> //enumeration type
+season ->//spring 0 autumn 1
+keywords -> //can be many or empty
