@@ -74,30 +74,30 @@
 				"question": "Which of the following is a description of the long tail?",
 				"wrongAnswers": [
 					{
-						"fullAnswer": "",
+						"fullAnswer": "It performs necessary processing, including integrated and systematic management, and delivery of digital content such as text and images that comprise web content.",
 						"keyword": "",
 						"description": ""
 					},
 					{
-						"fullAnswer":"",
+						"fullAnswer":"A link to a company is placed on a website or blog, and the company pays a referral fee when the product is purchased via the link",
 						"keyword": "",
 						"description": ""
 					},
 					{
-						"fullAnswer": "",
+						"fullAnswer": "By directly shipping products from manufacturers or wholesalers, one can sell products on his or her own website without taking a risk of inventories.",
 						"keyword": "",
 						"description": ""
 					}
 				],
 				"correctAnswer": {
-					"fullAnswer": "",
+					"fullAnswer": "The accumulated sales of the product groups that are not selling well account for a percentage that cannot be ignored against the total sales in Internet shopping.",
 					"keyword": "",
 					"description": ""
 				}, 
 				"category": "enum",
-				"year": 2010,
+				"year": 2019,
 				"season": 1,
-				"no": 1,
+				"no": 73,
 				"description": "",
 				"hint": "",
 				"keywords": [
@@ -108,23 +108,23 @@
 				"question": "Which of the following is a use case of deep learning to improve the performance of an in-car device?",
 				"wrongAnswers": [
 					{
-						"fullAnswer": "",
+						"fullAnswer": "An accelerometer detects the collision of the vehicle against a wall and causes the air bag to blow up, thus protecting the passenger from injury.",
 						"keyword": "",
 						"description": ""
 					},
 					{
-						"fullAnswer":"",
+						"fullAnswer":"By installing equipment that automatically performs idling stop, the fuel efficiency improves as compared with the case when a driver with a vast experience of driving drives a vehicle.",
 						"keyword": "",
 						"description": ""
 					},
 					{
-						"fullAnswer": "",
+						"fullAnswer": "The navigation system updates the software by a mobile phone line and refreshes the map.",
 						"keyword": "",
 						"description": ""
 					}
 				],
 				"correctAnswer": {
-					"fullAnswer": "",
+					"fullAnswer": "By the acquisition and processing of numerous images, the driver assistance system can distinguish between a pedestrian and vehicle more reliably.",
 					"keyword": "",
 					"description": ""
 				}, 
@@ -316,18 +316,6 @@
 			}
 		]
 	},"18b1num0811": {
-		"comments": "",
-		"questions": [
-			{
-
-			}
-		]
-	},"18b1num0811": {
-		"comments": "",
-		"questions": [
-			{
-
-			}
 		]
 	},
 	"18b1num0812": {
