@@ -1,8 +1,341 @@
 {
-	{
-		"student": "18B1NUM0810"
+	"18b1num0810": {
+		"comments": "",
+		"questions": [
+			{
+				"question": "Which of the following is not appropriate as an application example of the IoT (Internet of Things)?",
+				"wrongAnswers": [
+					{
+						"fullAnswer": "A system that allows the manufacturer to understand the operating status, failure locations, and parts that require replacement in real-time via the Internet by having sensors and a communication function built in a large-scale construction equipment",
+						"keyword": "real-time",
+						"description": ""
+					},
+					{
+						"fullAnswer":"A system that collects automobile location information in real time and distributes thetraffic jam information by communication between automobiles or between automobiles and road side units",
+						"keyword": "real-time",
+						"description": ""
+					},
+					{
+						"fullAnswer": "An electricity meter that sends information on the amount of power usage by communication with a power company in lieu of a meter reader",
+						"keyword": "sends information",
+						"description": ""
+					}
+				],
+				"correctAnswer": {
+					"fullAnswer": "A computer that independently performs file management, arithmetic and logic operations, printing processing, and other tasks without accessing a server to avoid the security problems on the Internet",
+					"keyword": "without accessing server",
+					"description": ""
+				}, 
+				"category": "enum",
+				"year": 2018,
+				"season": 1,
+				"no": 71,
+				"description": "",
+				"hint": "",
+				"keywords": [
+					{"keyword": "", "description": ""}
+				]
+			},
+			{
+				"question": "Which of the following is a description of CGM (Consumer Generated Media)?",
+				"wrongAnswers": [
+					{
+						"fullAnswer": "It allows the customers of a company who want to join a mailing list to register on it and periodically receive information via e-mail.",
+						"keyword": "",
+						"description": ""
+					},
+					{
+						"fullAnswer":"It provides a common ground for online shops of individual storekeepers and takes over the tasks of issuing common points and settling credit card payments.",
+						"keyword": "",
+						"description": ""
+					},
+					{
+						"fullAnswer": "It offers functions for trading goods in an auction format and works as an intermediary for the consumers in personal trading.",
+						"keyword": "",
+						"description": ""
+					}
+				],
+				"correctAnswer": {
+					"fullAnswer": "It enables the delivery of the digital contents prepared by an individual to a viewer or audience and its sharing between the users.",
+					"keyword": "",
+					"description": ""
+				}, 
+				"category": "enum",
+				"year": 2019,
+				"season": 1,
+				"no": 72,
+				"description": "",
+				"hint": "",
+				"keywords": [
+					{"keyword": "", "description": ""}
+				]
+			}, 
+			{
+				"question": "Which of the following is a description of the long tail?",
+				"wrongAnswers": [
+					{
+						"fullAnswer": "",
+						"keyword": "",
+						"description": ""
+					},
+					{
+						"fullAnswer":"",
+						"keyword": "",
+						"description": ""
+					},
+					{
+						"fullAnswer": "",
+						"keyword": "",
+						"description": ""
+					}
+				],
+				"correctAnswer": {
+					"fullAnswer": "",
+					"keyword": "",
+					"description": ""
+				}, 
+				"category": "enum",
+				"year": 2010,
+				"season": 1,
+				"no": 1,
+				"description": "",
+				"hint": "",
+				"keywords": [
+					{"keyword": "Long-tail", "description": "The long tail is a business strategy that allows companies to realize significant profits by selling low volumes of hard-to-find items to many customers, instead of only selling large volumes of a reduced number of popular items. The term was first coined in 2004 by researcher Chris Anderson."}
+				]
+			},
+			{
+				"question": "Which of the following is a use case of deep learning to improve the performance of an in-car device?",
+				"wrongAnswers": [
+					{
+						"fullAnswer": "",
+						"keyword": "",
+						"description": ""
+					},
+					{
+						"fullAnswer":"",
+						"keyword": "",
+						"description": ""
+					},
+					{
+						"fullAnswer": "",
+						"keyword": "",
+						"description": ""
+					}
+				],
+				"correctAnswer": {
+					"fullAnswer": "",
+					"keyword": "",
+					"description": ""
+				}, 
+				"category": "enum",
+				"year": 2010,
+				"season": 1,
+				"no": 1,
+				"description": "",
+				"hint": "",
+				"keywords": [
+					{"keyword": "", "description": ""}
+				]
+			}
+		]
 	},
-	{
-		"student": "18b1num0810"
+	"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},"18b1num0811": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
+	},
+	"18b1num0812": {
+		"comments": "",
+		"questions": [
+			{
+
+			}
+		]
 	}
 }
