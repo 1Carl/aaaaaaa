@@ -25,7 +25,7 @@
 	}, 
 	"category": "enum", //enumeration type
 	"year": 2010,
-	"season": 1, //spring 0, autumn 1
+	"season": 1, //spring 0 autumn 1
 	"no": 1,
 	"description": "",
 	"hint": "",
